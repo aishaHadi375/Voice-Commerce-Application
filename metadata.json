@@ -1,0 +1,7 @@
+{
+  "name": "AI Powered Voice Commerce App",
+  "description": "A voice-powered e-commerce application that uses Gemini to understand your shoe preferences and find the perfect pair for you from our catalog.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
